@@ -7,7 +7,7 @@ Skills: C# / C++(Base)
 
 - 🔭 I’m currently working on pojectom loader for minecraft chita 
 - 🌱 I’m currently learning C# 
-- 👯 I’m looking to collaborate on играм  
+- 👯 I’m looking to collaborate on game 
 - 📫 How to reach me: Telegram @PershkinDev / Discord pershkin 
 
 
