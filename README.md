@@ -3,7 +3,7 @@
 
 I'm a beginner developer and just gaining experience.
 
-Skills: C# / C++(Base)
+Skills: JS, React.js(начал изучать)
 
 - 🔭 I’m currently working on pojectom loader for minecraft chita 
 - 🌱 I’m currently learning C# 
