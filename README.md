@@ -8,7 +8,7 @@ Skills: JS, С++(начал изучать)
 - 🔭 I’m currently working on pojectom loader for minecraft chita 
 - 🌱 I’m currently learning С++ 
 - 👯 I’m looking to collaborate on game 
-- 📫 How to reach me: Telegram @PershkinDev / Discord pershkin 
+- 📫 How to reach me: Telegram @PershkinDev / Discord: pershkin 
 
 
 <h3 align="left">Languages and Tools:</h3>
