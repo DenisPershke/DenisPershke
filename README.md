@@ -1,13 +1,6 @@
 ### Hi there 👋, my name is Denis
 #### I live in the Kirivograd region in Ukraine
 
-<a href="https://github.com/DenisPershke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DesertGamer&show_icons=true&theme=tokyonight&locale=ru" />
-</a>
-<a href="https://github.com/DenisPershke">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=desertgamer&theme=tokyonight&locale=ru" />
-</a>
-
 I'm a beginner developer and just gaining experience.
 
 Skills: JS, С++(начал изучать)
