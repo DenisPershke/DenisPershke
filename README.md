@@ -8,7 +8,7 @@ My expertise includes:
                               
 - **Back-End Development:** Experienced with server-side languages and frameworks like Node.js, Express
                                                  
-- **Database Management:** Skilled in working with databases like 
+- **Database Management:** Skilled in working with databases like MongoDB
 
                                                                                                          
 > I am eager and ready to take on new challenges with a proactive mindset and a commitment to excellence. With my expertise in web development and a strong work ethic, I am prepared to contribute significantly to  any project. I thrive in collaborative environments and am passionate about delivering high-quality, innovative solutions                                 
