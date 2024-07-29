@@ -28,9 +28,7 @@ My expertise includes:
 <!--[Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)-->
 
 ## 🌍 Social networks: 
-[![Tik Tok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bagaprog)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bakzhan.baken/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/profile/BagaProg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/den_pershke/)
 
-## ⚡Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=BagaProg&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
