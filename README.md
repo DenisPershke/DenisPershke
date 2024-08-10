@@ -7,7 +7,7 @@ My expertise includes:
 - **Front-End Development:** Proficient in HTML, CSS, JavaScript
                               
 - **Back-End Development:** Experienced with server-side languages and frameworks like Node.js, Express
-- **Software:** Beginning in C++
+- **Software Development:** Beginning in C++
                                                  
 - **Database Management:** Skilled in working with databases like MongoDB
 
