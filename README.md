@@ -1,17 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis
-=============================================================================================================================
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pershkin%20&textBg=false&stroke=11&strokeWidth=0&fontColor=dark&fontAlign=50&animation=fadeIn" alt="header" width="100%" height="auto" />
 
-* 🌍  I'm based in Region Kirovograd
-* ✉️  You can contact me at [dpershkin@gmail.com](mailto:dpershkin@gmail.com)
-* 🤝  I'm open to collaborating on I'm always ready for new ideas and projects
+<h3>🙋‍♂️&nbsp;About Me</h3>
+🔭&nbsp;I’m currently working on something cool :wink:<br>
+💼&nbsp;I'm currently a Schoolboy and a Developer<br>
+⚡&nbsp;Fun fact: I :heart: 🐶:s
+<br><br><br>
 
-### Skills
+<h3>🛠️&nbsp;The languages, frameworks, and tools I use</h3>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
+<img src="https://img.shields.io/badge/Javascript-B59A30?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">
+<img src="https://img.shields.io/badge/HTML-EB743B?style=for-the-badge&logo=html5&logoColor=E34F26" title="HTML">
+<img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
+<br>
+<img src="https://img.shields.io/badge/Express.js-2b2b2b?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
+<img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
+<img src="https://img.shields.io/badge/Node.js-214021?style=for-the-badge&logo=node.js&logoColor=339933" title="Node.js">
+<br>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code">
+<img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
+<br><br><br>
 
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/pershkin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/den_pershke" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<h3>🔗&nbsp;Connect with me</h3>
+<a href="https://discord.com/users/824543148704661514"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
+<a href="https://twitter.com/JustOptimize"><img src="https://skillicons.dev/icons?theme=dark&i=twitter" width="40" height="40" title="Twitter"></a>
+<a href="https://www.instagram.com/den_pershke/"><img src="https://skillicons.dev/icons?theme=dark&i=instagram" width="40" height="40" title="Instagram"></a>
+</div>
