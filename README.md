@@ -8,7 +8,6 @@
 <br><br><br>
 
 <h3>🛠️&nbsp;The languages, frameworks, and tools I use</h3>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript">
 <img src="https://img.shields.io/badge/Javascript-B59A30?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">
 <img src="https://img.shields.io/badge/HTML-EB743B?style=for-the-badge&logo=html5&logoColor=E34F26" title="HTML">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
