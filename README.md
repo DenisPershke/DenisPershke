@@ -23,6 +23,5 @@
 
 <h3>🔗&nbsp;Connect with me</h3>
 <a href="https://discord.com/users/824543148704661514"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
-<a href="https://twitter.com/JustOptimize"><img src="https://skillicons.dev/icons?theme=dark&i=twitter" width="40" height="40" title="Twitter"></a>
 <a href="https://www.instagram.com/den_pershke/"><img src="https://skillicons.dev/icons?theme=dark&i=instagram" width="40" height="40" title="Instagram"></a>
 </div>
