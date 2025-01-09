@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Javascript-B59A30?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">
 <img src="https://img.shields.io/badge/HTML-EB743B?style=for-the-badge&logo=html5&logoColor=E34F26" title="HTML">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 <img src="https://img.shields.io/badge/Java-F8981D?style=for-the-badge&logo=java&logoColor=ffffff" title="Java">
 <br>
 <img src="https://img.shields.io/badge/Express.js-2b2b2b?style=for-the-badge&logo=express&logoColor=white" title="Express.js">
