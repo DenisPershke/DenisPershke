@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pershkin%20&textBg=false&stroke=11&strokeWidth=0&fontColor=dark&fontAlign=50&animation=fadeIn" alt="header" width="100%" height="auto" />
 
-<!--
-**DenisPershke/DenisPershke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🙋‍♂️&nbsp;About Me</h3>
+🔭&nbsp;I’m currently working on something cool :wink:<br>
+💼&nbsp;I'm currently a Schoolboy and a Developer<br>
+⚡️&nbsp;Fun fact: I :heart: 🐶:s
+<br><br><br>
 
-Here are some ideas to get you started:
+<h3>🛠&nbsp;The languages, frameworks, and tools I use</h3>
+<img src="https://img.shields.io/badge/C%23-7549a3?style=for-the-badge&logo=c-sharp&logoColor=51069e" title="C#">
+<img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/.NET-indigo?style=for-the-badge&logo=.NET">
+<br>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code">
+<img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
+<br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🔗&nbsp;Connect with me</h3>
+<a href="https://discord.com/users/824543148704661514"><img src="https://skillicons.dev/icons?theme=dark&i=discord" width="40" height="40" title="Discord"></a>
+</div>
