@@ -10,8 +10,8 @@
 <h3>🛠&nbsp;The languages, frameworks, and tools I use</h3>
 <img src="https://img.shields.io/badge/Javascript-B59A30?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/.NET-indigo?style=for-the-badge&logo=.NET">
+<img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL"
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code">
 <br>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code">
 <img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
