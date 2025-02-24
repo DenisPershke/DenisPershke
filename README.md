@@ -8,7 +8,7 @@
 <br><br><br>
 
 <h3>🛠&nbsp;The languages, frameworks, and tools I use</h3>
-<img src="https://img.shields.io/badge/C%23-7549a3?style=for-the-badge&logo=c-sharp&logoColor=51069e" title="C#">
+<img src="https://img.shields.io/badge/C%23-7549a3?style=for-the-badge&logo=javascropt&logoColor=51069e" title="JS">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
 <img src="https://img.shields.io/badge/.NET-indigo?style=for-the-badge&logo=.NET">
