@@ -10,7 +10,7 @@
 <h3>🛠&nbsp;The languages, frameworks, and tools I use</h3>
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
 <img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
-<img src="https://img.shields.io/badge/C%23-7549a3?style=for-the-badge&logo=java&logoColor=51069e" title="Java">
+![Java Badge](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 <br>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=51069e" title="Visual Studio 2022">
 <img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
