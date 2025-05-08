@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" title="Java">
 <br>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-code&logoColor=51069e" title="Visual Studio 2022">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-2b678f?style=for-the-badge&logo=visual-studio-2022&logoColor=8000ff" title="Visual Studio 2022">
 <img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
 <br><br><br>
 
