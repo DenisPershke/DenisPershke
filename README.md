@@ -1,14 +1,14 @@
 <div align="center">
 <h3 align="center">🙋‍♂️&nbsp;About Me</h3>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Denis+%F0%9F%91%8B;I+love+and+wish+to+create+and+build;I+live+and+breathe+programming+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+<p align="center">
   🔭 I’m currently building something exciting in web development 🌐<br>
   💼 I'm a curious student and an aspiring Software Developer 👨‍💻<br>
   ⚡️ Fun fact: I absolutely love dogs 🐶 and learning new tech 🧠<br>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Denis+%F0%9F%91%8B;I+love+and+wish+to+create+and+build;I+live+and+breathe+programming+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
 <br><br><br>
 
 <h3>🛠&nbsp;The languages, frameworks, and tools I use</h3>
