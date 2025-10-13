@@ -5,8 +5,8 @@
 </p>
 <p align="center">
   🔭 I’m currently building something exciting in web development 🌐<br>
-  💼 I'm a curious student and an aspiring Software Developer 👨‍💻<br>
-  ⚡️ Fun fact: I absolutely love dogs 🐶 and learning new tech 🧠<br>
+  💼 I'm an inquisitive student and aspiring software developer 👨‍💻
+⚡️ Fun fact: I love dogs 🐶 and embrace new technologies.<br>
 </p>
 
 <br><br><br>
