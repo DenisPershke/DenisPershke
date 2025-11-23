@@ -13,6 +13,7 @@
 
 <h3>🛠&nbsp;The languages, frameworks, and tools I use</h3>
 <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" title="Linux">
 <img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
 <br>
