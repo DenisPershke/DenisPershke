@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
 <br>
-<img src="https://img.shields.io/badge/Visual%20Studio%202022-4B0082?style=for-the-badge&logo=visual-studio-2022&logoColor=cfa8ff" title="Visual Studio 2026">
+<img src="https://img.shields.io/badge/Visual%20Studio%202022-4B0082?style=for-the-badge&logo=visual-studio-2026&logoColor=cfa8ff" title="Visual Studio 2026">
 <img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
 <br><br><br>
 
