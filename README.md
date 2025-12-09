@@ -15,8 +15,10 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" title="Linux">
 <img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=#42759C" title="MySQL">
 <img src="https://img.shields.io/badge/Python-5388b5?style=for-the-badge&logo=python&logoColor=3776AB" title="Python">
+<img src="https://img.shields.io/badge/AIOgram-0A66C2?style=for-the-badge" title="AIOgram">
 <br>
 <img src="https://img.shields.io/badge/Visual%20Studio%202026-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=ffffff" title="Visual Studio 2026">
+<img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=ffffff" title="JetBrains">
 <img src="https://img.shields.io/badge/Git-701f0b?style=for-the-badge&logo=git&logoColor=F05032" title="Git">
 <br><br><br>
 
