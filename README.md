@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   🔭 I’m currently building something exciting in web development 🌐<br>
-💼 I am a student and am actively interested in programming. My skills are Software Developer, Discord Bot Developer.
+💼 I am a student and am actively interested in programming. My skills are Software Developer, Telegram/Discord Bot Developer.
 r 👨‍💻
 ⚡️ Fun fact: I love dogs 🐶 and embrace new technologies.<br>
 </p>
