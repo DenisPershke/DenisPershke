@@ -24,7 +24,7 @@
     </td>
     <td align="center" width="200">
       <b>Core Stack</b><br>
-      <sub>Java · Python</sub>
+      <sub>Node.js · Python</sub>
     </td>
   </tr>
 </table>
