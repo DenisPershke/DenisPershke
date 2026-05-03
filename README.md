@@ -6,8 +6,8 @@
 
 *Creating scalable backend systems · Developing Minecraft ecosystems · Crafting digital solutions*
 
-[![Views](https://komarev.com/ghpvc/?username=DenisPershkin&color=blueviolet&style=flat-square)](https://github.com/DenisPershkin)
-![Followers](https://img.shields.io/github/followers/DenisPershkin?label=Followers&style=flat-square&color=blueviolet)
+[![Views](https://komarev.com/ghpvc/?username=DenisPershkin&color=blueviolet&style=flat-square)](https://github.com/DenisPershke)
+![Followers](https://img.shields.io/github/followers/DenisPershke?label=Followers&style=flat-square&color=blueviolet)
 
 ---
 
