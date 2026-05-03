@@ -1,68 +1,54 @@
 <div align="center">
 
-# Денис Першкин
-**Software Engineer Student · Founder & Lead Developer @ Vexton Studio**
+# ✨ Денис Першкин — pershkin ✨
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft_Dev-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+**Software Developer · Founder & Lead Developer @ Vexton Studio**
+
+*Creating scalable backend systems · Developing Minecraft ecosystems · Crafting digital solutions*
+
+[![Views](https://komarev.com/ghpvc/?username=DenisPershkin&color=blueviolet&style=flat-square)](https://github.com/DenisPershkin)
+![Followers](https://img.shields.io/github/followers/DenisPershkin?label=Followers&style=flat-square&color=blueviolet)
 
 ---
 
-## 🙋‍♂️ Обо мне
+## 🎮 Interactive Zone
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <b>Vexton Studio</b><br>
-      <sub>Основатель и владелец</sub>
-    </td>
-    <td align="center" width="200">
-      <b>Инженер ПО</b><br>
-      <sub>Студент (Backend focus)</sub>
-    </td>
-    <td align="center" width="200">
-      <b>Core Stack</b><br>
-      <sub>Node.js · Python</sub>
-    </td>
-  </tr>
-</table>
+Попробуйте мои разработки или свяжитесь со мной:
+
+*   🤖 Посмотреть **Telegram ботов** в Vexton Studio
+*   🕹 Поиграть на серверах с моими плагинами
+*   🎯 Ознакомьтесь с моими проектами ниже!
+
+---
+
+## 🌟 About Me
+
+*   💻 **Software Developer** с фокусом на бэкенд и системную логику.
+*   🛠 **Founder & Lead Developer @ Vexton Studio** — руковожу разработкой IT-продуктов.
+*   🌍 Базируюсь в **Украине**.
+*   ✨ Специализируюсь на **Minecraft Development** и автоматизации процессов через ботов.
+
+---
+
+## 🧪 Tech Stack
 
 <p align="center">
-  Я — студент-инженер программного обеспечения, развивающий собственную IT-студию.<br>
-  Являюсь <b>основателем и ведущим разработчиком Vexton Studio</b>. Мы активно растем,<br> создавая качественные цифровые продукты и масштабируемые сервисы.<br><br>
-  
-  <b>Ключевые компетенции:</b><br>
-  🌐 <b>Web Services:</b> Проектирую и внедряю бэкенд для сайтов на <b>Node.js</b>.<br>
-  🕹 <b>Minecraft Development:</b> Разработка серверной логики и игровых систем.<br>
-  🤖 <b>Bot Development:</b> Создание экосистем для Telegram и Discord (Python/aiogram).<br>
-  🛠 <b>System Skills:</b> Базовое использование C++ для специфических задач и оптимизации.<br><br>
-  
-  <i>«Постоянно учусь, создавая реальные проекты и развивая Vexton Studio.»</i>
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,nodejs,postgres,mysql,docker,linux,fedora,ubuntu" />
 </p>
 
 ---
 
-## 🛠 Технологический стек
+## 🚀 Featured Projects
 
-### ОСНОВНЫЕ ЯЗЫКИ (Daily)
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-
-### ДОПОЛНИТЕЛЬНО (Secondary / Learning)
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-
-### ИНСТРУМЕНТЫ И БД
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **deceased Bot** | Многофункциональный бот для музыкального лейбла (автоматизация заявок). | `Python` `aiogram` |
+| **NextageMC** | Собственный Minecraft проект с кастомными плагинами и системами. | `Java` `Spigot` |
+| **Vexton Studio** | Студия разработки ботов, веб-сервисов и Minecraft проектов. | `Node.js` `Python` |
 
 ---
 
-## 🔗 Контакты
+## 🔗 Contacts
 
 <a href="https://discord.com/users/824543148704661514">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
