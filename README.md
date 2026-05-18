@@ -42,7 +42,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **deceased Bot** | Многофункциональный бот для музыкального лейбла (автоматизация заявок). | `Python` `aiogram` |
+| **Missize Bot** | Многофункциональный бот для музыкального лейбла (автоматизация заявок). | `Python` `aiogram` |
 | **NextageMC** | Собственный Minecraft проект с кастомными плагинами и системами. | `Java` `Spigot` |
 | **Vexton Studio** | Студия разработки ботов, веб-сервисов и Minecraft проектов. | `Node.js` `Python` |
 
