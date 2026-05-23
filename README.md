@@ -45,7 +45,7 @@
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **Missize Bot** | Многофункциональный Telegram-бот для музыкального лейбла. Автоматизация обработки и менеджмента заявок от артистов, FSM-логика, генерация отчетности. | `Python` `aiogram` | — |
-| **ViceCity Mod** | Дискорд-бот для автоматизации модерации крупных сообществ. Четырехуровневая система прав, тикеты с генерацией транскриптов, защита от "слива" сервера. | `Python` `discord.py` / `Node.js` | [Discord Server](https://discord.gg/3u4Nrw2SWj) |
+| **ViceCity Mod** | Дискорд-бот для автоматизации модерации крупных сообществ. Четырехуровневая система прав, тикеты с генерацией транскриптов, защита от "слива" сервера. | `Python` `discord.py` | [Discord Server](https://discord.gg/3u4Nrw2SWj) |
 
 ### 🎮 Game Development & Infrastructure
 
