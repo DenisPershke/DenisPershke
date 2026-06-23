@@ -2,7 +2,7 @@
 
 # ✨ Денис Першкин — pershkin ✨
 
-**Software Developer · Founder & Lead Developer @ Vexton Studio**
+**Software Developer · Backend & System Architect**
 
 *Backend Development · Telegram/Discord Automation · High-Performance Game Systems*
 
@@ -11,22 +11,21 @@
 
 ---
 
-## 🎮 Interactive Zone
+## 🚀 Featured Project: MineSync
 
-Попробуйте мои разработки или свяжитесь со мной:
+<a href="https://minesync.xyz">
+  <img src="https://img.shields.io/badge/Project-MineSync.xyz-007ACC?style=for-the-badge&logo=target&logoColor=white" alt="MineSync">
+</a>
 
-* 🤖 Заказать разработку: **[Vexton Studio](https://vextonstudio.tech)**
-* 📦 Мой плагин на Modrinth: **[FishPvE](https://modrinth.com/plugin/fishpve)**
-* 🎯 Ознакомьтесь с моими проектами ниже!
+**MineSync** — это комплексная экосистема (Сайт + Плагин + Бот) для бесшовной интеграции игровых серверов Minecraft с Discord. Полная синхронизация данных, автоматизация управления и кастомные решения.
 
 ---
 
 ## 🌟 About Me
 
-* 💻 **Software Developer** с фокусом на бэкенд, автоматизацию и системную логику.
-* 🛠 **Founder & Lead Developer @ Vexton Studio** — руковожу разработкой ботов, веб-сервисов и игровых систем.
+* 💻 **Software Developer** с фокусом на бэкенд, автоматизацию, системную логику и архитектуру.
+* 🛠 Разрабатываю высоконагруженные игровые системы, комплексные инфраструктурные решения и ботов.
 * 🌍 Базируюсь в **Украине**.
-* ✨ Специализируюсь на **High-Load Game Development** и комплексных инфраструктурных решениях.
 
 ---
 
@@ -38,29 +37,23 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 More Projects
+
+### 🔗 Discord & Minecraft Integration
+* **MineSync** — Экосистема интеграции Discord и Minecraft (Web + Plugin + Bot). Позволяет связать игровой процесс, веб-интерфейс и управление сообществом в единую сеть. `Java` `Node.js` `Python` | **[minesync.xyz](https://minesync.xyz)**
 
 ### 🤖 Automation & Bots
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Missize Bot** | Многофункциональный Telegram-бот для музыкального лейбла. Автоматизация обработки и менеджмента заявок от артистов, FSM-логика, генерация отчетности. | `Python` `aiogram` | — |
-| **ViceCity Mod** | Дискорд-бот для автоматизации модерации крупных сообществ. Четырехуровневая система прав, тикеты с генерацией транскриптов, защита от "слива" сервера. | `Python` `discord.py` | [Discord Server](https://discord.gg/3u4Nrw2SWj) |
+* **ViceCity Mod** — Дискорд-бот для автоматизации модерации крупных сообществ. Четырехуровневая система прав, тикеты с генерацией транскриптов, защита от "слива" сервера. `Python` `discord.py` | [Discord Server](https://discord.gg/3u4Nrw2SWj)
+* **Missize Bot** — Многофункциональный Telegram-бот для музыкального лейбла. Автоматизация обработки заявок от артистов, FSM-логика, генерация отчетности. `Python` `aiogram`
 
 ### 🎮 Game Development & Infrastructure
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **NextageMC** | Масштабный Minecraft проект с кастомной экосистемой плагинов, оптимизированной экономикой и архитектурой под высокие нагрузки. | `Java` `Spigot/Paper` `MySQL` | — |
-| **FishPvE** | Кастомный плагин для расширения PvE-механик на игровых серверах. Разработан с упором на производительность основного потока сервера. | `Java` `Spigot API` | [Modrinth](https://modrinth.com/plugin/fishpve) |
+* **NextageMC** — Масштабный Minecraft проект с кастомной экосистемой плагинов, оптимизированной экономикой и архитектурой под высокие нагрузки. `Java` `Spigot/Paper` `MySQL`
+* **FishPvE** — Кастомный плагин для расширения PvE-механик на игровых серверах. Разработан с упором на производительность основного потока сервера. `Java` `Spigot API` | [Modrinth](https://modrinth.com/plugin/fishpve)
 
 ---
 
 ## 🔗 Contacts
 
-<a href="https://vextonstudio.tech">
-  <img src="https://img.shields.io/badge/Website-vextonstudio.tech-blueviolet?style=for-the-badge" alt="Website">
-</a>
 <a href="https://discord.com/users/824543148704661514">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
