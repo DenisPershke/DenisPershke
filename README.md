@@ -15,6 +15,15 @@
 
 <br>
 
+## ✨ Флагманский проект: Taskly
+
+Полноценный трекер задач — бэкенд на FastAPI, фронтенд на React, PostgreSQL под капотом. Сейчас в активной разработке, будет открытым (open-source).
+
+<!-- Когда будет готов репозиторий, замени ссылку ниже -->
+[![Taskly](https://img.shields.io/badge/Repo-скоро-6E56CF?style=for-the-badge&logo=github&logoColor=white)](#)
+
+<br>
+
 ## 🛠 Технологии
 
 **Языки:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -29,14 +38,9 @@
 
 ## 🚀 Проекты
 
-**ViceCity Mod** — Discord-бот для автоматизации модерации крупных сообществ: система прав доступа, тикеты с генерацией транскриптов, защита от «слива» сервера.
-`Python` `discord.py` · [Discord Server](https://discord.gg/3u4Nrw2SWj)
-
-**Missize Bot** — многофункциональный Telegram-бот для музыкального лейбла: обработка заявок от артистов, FSM-логика, генерация отчётности.
-`Python` `aiogram`
-
-**FishPvE** — плагин для расширения PvE-механик на серверах Minecraft, с упором на производительность основного потока сервера.
-`Java` `Spigot API` · [Modrinth](https://modrinth.com/plugin/fishpve)
+- **ViceCity Mod** — Discord-бот для модерации сообществ. `Python` · [Discord](https://discord.gg/3u4Nrw2SWj)
+- **Missize Bot** — Telegram-бот для музыкального лейбла. `Python` `aiogram`
+- **FishPvE** — плагин PvE-механик для Minecraft. `Java` · [Modrinth](https://modrinth.com/plugin/fishpve)
 
 <br>
 
