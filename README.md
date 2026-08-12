@@ -27,18 +27,6 @@
 
 <br>
 
-## 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenisPershke&theme=radical" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DenisPershke&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<br>
-
 ## 🚀 Проекты
 
 **ViceCity Mod** — Discord-бот для автоматизации модерации крупных сообществ: система прав доступа, тикеты с генерацией транскриптов, защита от «слива» сервера.
