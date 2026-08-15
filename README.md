@@ -1,14 +1,13 @@
 <div align="center">
 
 # Привет, я Денис 👋
-
 ### Full Stack Developer в становлении · Backend-фокус
 
 Студент ИПЗ (Инженерия программного обеспечения). Пишу бэкенды на Python и двигаюсь в сторону Full Stack с React на фронтенде. Также занимаюсь автоматизацией — боты для Discord и Telegram.
 
 📍 Украина
 
-[![Views](https://komarev.com/ghpvc/?username=DenisPershkin&color=blueviolet&style=flat-square)](https://github.com/DenisPershke)
+[![Views](https://komarev.com/ghpvc/?username=DenisPershke&color=blueviolet&style=flat-square)](https://github.com/DenisPershke)
 ![Followers](https://img.shields.io/github/followers/DenisPershke?label=Followers&style=flat-square&color=blueviolet)
 
 </div>
@@ -20,7 +19,7 @@
 Полноценный трекер задач — бэкенд на FastAPI, фронтенд на React, PostgreSQL под капотом. Сейчас в активной разработке, будет открытым (open-source).
 
 <!-- Когда будет готов репозиторий, замени ссылку ниже -->
-[![Taskly](https://img.shields.io/badge/Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/DenisPershke/Taskly_board/tree/main))
+[![Taskly](https://img.shields.io/badge/Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DenisPershke/Taskly_board/tree/main)
 
 <br>
 
@@ -47,5 +46,3 @@
 ## 📫 Контакты
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/824543148704661514)
-
-</div>
