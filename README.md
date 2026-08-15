@@ -20,7 +20,7 @@
 Полноценный трекер задач — бэкенд на FastAPI, фронтенд на React, PostgreSQL под капотом. Сейчас в активной разработке, будет открытым (open-source).
 
 <!-- Когда будет готов репозиторий, замени ссылку ниже -->
-[![Taskly](https://img.shields.io/badge/Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white)]([#](https://github.com/DenisPershke/Taskly_board/tree/main))
+[![Taskly](https://img.shields.io/badge/Repo-6E56CF?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/DenisPershke/Taskly_board/tree/main))
 
 <br>
 
